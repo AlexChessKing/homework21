@@ -8,7 +8,7 @@ public class Main {
         List<Person> people = new ArrayList<>();
         people.add(new Person("Хосе Рауль", "Капабланка-и-Граупера", 22));
         people.add(new Person("Евгений", "Зноско-Боровский", 26));
-        people.add(new Person("Александр", "Алехин", 18));
+        people.add(new Person("Александр", "Алехин", 17));
         people.add(new Person("Федор", "Дуз-Хотимирский", 31));
         people.add(new Person("Александр", "Ильин-Женевский", 16));
 
